@@ -18,9 +18,9 @@
   <div class="card">
     <h2>Vyberte výši dýška</h2>
     <button class="tip-btn" onclick="setTip(0)">Bez dýška</button>
-    <button class="tip-btn" onclick="setTip(10)">+20 Kč</button>
-    <button class="tip-btn" onclick="setTip(20)">+50 Kč</button>
-    <button class="tip-btn" onclick="setTip(50)">+100 Kč</button>
+    <button class="tip-btn" onclick="setTip(20)">+20 Kč</button>
+    <button class="tip-btn" onclick="setTip(50)">+50 Kč</button>
+    <button class="tip-btn" onclick="setTip(100)">+100 Kč</button>
 
     <h3 id="result">Celková částka: 250 Kč</h3>
 
